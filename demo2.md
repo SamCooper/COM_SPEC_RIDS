@@ -9,5 +9,7 @@ Some random markdown text.
 
 [the clickable text](http://xlson.com/)
 
+## This is a H2
+
 * Bullet lists are also easy to create
 * One more
