@@ -11,7 +11,7 @@ This site contains links to sources of information and software that gets you up
 
 ## Links
 
- * FAQs
+ * [FAQs](http://samcooper.github.io/COM_SPEC_RIDS/demo2)
  * Tutorials
  * Best practices
  * Example software
