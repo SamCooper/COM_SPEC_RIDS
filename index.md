@@ -11,6 +11,11 @@ The Spacecraft Monitoring and Control (SM&C) Working Group of the Consultative C
 
 This site contains links to sources of information and software that gets you up and running with the MO software standards quickly.
 
+
+## Authors and Contributors
+
+@SamCooper
+
 ## Support or Contact
 
 Links to people and organisations that can provide support.
