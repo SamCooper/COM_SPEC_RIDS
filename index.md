@@ -13,11 +13,11 @@ This site contains links to sources of information and software that gets you up
 
 ## Links
 
-[FAQs]
-[Tutorials]
-[Best practices]
-[Example software]
-[Software]
+* FAQs
+* Tutorials
+* Best practices
+* Example software
+* Software
 
 ## Authors and Contributors
 
