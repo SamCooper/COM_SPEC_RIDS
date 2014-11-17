@@ -1,0 +1,9 @@
+The requirements 3.4.6.2.1 and 3.4.6.2.14 repeat the same information:
+
+3.4.6.2.1:
+"The first part of the request indicates whether the operation should return the
+object instance identifiers used; if TRUE it shall return them; otherwise it shall return NULL."
+
+3.4.6.2.14:
+"The response shall contain the set of new object instance identifiers if the request
+supplied an initial TRUE Boolean value; otherwise it shall return NULL."
